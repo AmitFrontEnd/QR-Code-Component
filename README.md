@@ -3,7 +3,7 @@
 This is a simple **Frontend Mentor** challenge for practice. The project is fully responsive and built using HTML and CSS.
 
 ## 🚀 Live Demo
-🔗 [View Live Site](https://amitkumar1590.github.io/QR-Code-Component/)
+🔗 [View Live Site](https://amitfrontend.github.io/QR-Code-Component/)
 
 ## 📌 Technologies Used
 - HTML
